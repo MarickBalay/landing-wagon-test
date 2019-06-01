@@ -1,0 +1,68 @@
+/*font and colors*/
+body {
+  background: #ECEFED;
+  color: #CE7B91;
+  font-size: 35px;
+  font-family: Helvetica;
+  margin: 0px;
+}
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: #EDC597;
+  font-weight: ;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #D0FEF8;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+/*custom design*/
+
+#banner {
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/2356087/pexels-photo-2356087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+  background-size: cover;
+  padding: 150px;
+  color: black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: black;
+  opacity: 1;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
+.section{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+
+}
+#footer a{
+  color: pink;
+  font-size: 30px;
+  text-align: center;
+}
+#footer a:hover {
+  color: white;
+  cursor: none;
+}
